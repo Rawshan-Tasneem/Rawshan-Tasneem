@@ -1,4 +1,4 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:B388FF,100:E0F7FA&text=I%27m%20Rawshan&fontColor=20&fontSize=68&animation=fadeIn&desc=%20A%20B.Pharm%20Student%20|%20Exploring%20Health%20Tech&descSize=29&fontAlignY=39)
+![Profile Banner](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:B388FF,100:E0F7FA&text=I%27m%20Rawshan&fontColor=20&fontSize=68&animation=fadeIn&desc=%20A%20B.Pharm%20Student%20|%20Exploring%20Health%20-Tech&descSize=29&fontAlignY=39)
 <div align="center">
   
   # Hi, I'm Rawshan Tasneem 
