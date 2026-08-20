@@ -4,7 +4,7 @@
   # Hello, I'm Rawshan Tasneem
   <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=7928ca&center=true&vCenter=true&width=900&lines=PHARMACY;PHARMACEUTICAL+RESEARCH;COMPUTATIONAL+PHARMACY;Health-Tech;Nice+To+Meet+You" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=87CEEB&center=true&vCenter=true&width=900&lines=PHARMACY;PHARMACEUTICAL+RESEARCH;COMPUTATIONAL+PHARMACY;Health-Tech;Nice+To+Meet+You" />
 
 </div> 
 
