@@ -1,16 +1,17 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:7928ca,100:0070f3&text=Hi,%20I%27m%20Rawshan&fontColor=20&fontSize=68&animation=fadeIn&desc=%20A%20B.Pharm%20Student%20|%20Exploring%20Health%20Tech&descSize=29&fontAlignY=39)
+![Profile Banner](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:B388FF,100:E0F7FA&text=I%27m%20Rawshan&fontColor=20&fontSize=68&animation=fadeIn&desc=%20A%20B.Pharm%20Student%20|%20Exploring%20Health%20Tech&descSize=29&fontAlignY=39)
 <div align="center">
   
-  # Hello, I'm Rawshan Tasneem
-  <div align="center">
+  # Hi, I'm Rawshan Tasneem 
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=87CEEB&center=true&vCenter=true&width=900&lines=PHARMACY;PHARMACEUTICAL+RESEARCH;COMPUTATIONAL+PHARMACY;Health-Tech;Nice+To+Meet+You" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=900&color=87CEEB&center=true&vCenter=true&width=900&lines=Interested+In;PHARMACY;PHARMACEUTICAL+RESEARCH;COMPUTATIONAL+PHARMACY;Health-Tech;Nice+To+Meet+You" />
 
 </div> 
 
 ## A B.Pharm Student | Health-Tech Enthusiast
 
-  📍Dhaka, Bangladesh &nbsp; &nbsp;
+
+📍Dhaka, Bangladesh &nbsp; &nbsp;
   </div>
 
 I am a B.Pharm student at BRAC University, interested in the connection between pharmaceutical science, healthcare and technology.
